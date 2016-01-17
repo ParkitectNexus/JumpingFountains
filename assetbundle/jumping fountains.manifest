@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 4213839595
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f4304cc4c83ad4fc321c2b48fb5c53d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e38a0abbfcd0d0b9bd28f4f5386eb2a2
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fountains/JumpingFountain.prefab
+Dependencies: []

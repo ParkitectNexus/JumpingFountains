@@ -1,0 +1,14 @@
+﻿{
+    "Jumping Fountain": {
+		"model": "JumpingFountain",
+		"type": "deco",
+		"grid": true,
+		"heightDelta": 1.0,
+		"price": 20.0,
+		"snapCenter": true,
+		"recolorable": true,
+		"recolorableOptions": {
+		  "color1": "#BBBBBB"
+		}
+	}
+}
